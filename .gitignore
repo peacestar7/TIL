@@ -1,7 +1,5 @@
-secret.txt
-
-# Created by https://www.toptal.com/developers/gitignore/api/windows,python,django,macos,venv
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,django,macos,venv
+# Created by https://www.toptal.com/developers/gitignore/api/venv,windows,python,django,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,windows,python,django,macos
 
 ### Django ###
 *.log
@@ -331,4 +329,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,python,django,macos,venv
+# End of https://www.toptal.com/developers/gitignore/api/venv,windows,python,django,macos
